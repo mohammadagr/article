@@ -3,6 +3,9 @@ body{
     margin: auto;
     font-family: 'Roboto', sans-serif;
 }
+.header{
+    font-size: 8px;
+}
 .lable{
     background-color: #cc003e;
     float: right;
@@ -10,6 +13,12 @@ body{
     padding: 2px;
     font-size: 10px;
     border-radius: 2px;
+}
+h3{
+    text-align: left;
+    font-weight: bolder;
+    font-size: 30px;
+    margin-top: 5px;
 }
 .intruduce{
     font-size: 10px;
@@ -26,12 +35,7 @@ body{
     color: grey;
     font-weight: bold;
 }
-h3{
-    text-align: left;
-    font-weight: bolder;
-    font-size: 30px;
-    margin-top: -10px;
-}
+
 .icon1{
     float: left;
     width: 15px;
